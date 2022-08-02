@@ -1,4 +1,4 @@
-Dashboard for Netflix series and movies.
+Dashboard for Netflix series and movies using Power BI. 
 
 Datasets used:
 1)  https://www.kaggle.com/datasets/ashishgup/netflix-rotten-tomatoes-metacritic-imdb
